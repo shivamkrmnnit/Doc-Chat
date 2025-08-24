@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# testing
+coverage/
+
+# production
+dist/
+build/
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# misc
+*.log
+*.cache
+*.tgz
+README.md

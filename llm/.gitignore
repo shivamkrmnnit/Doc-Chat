@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+
+# Distribution / packaging
+.Python
+.env
+.env.*
+!.env.example
+venv/
+venv311/
+llm/venv311/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+.env.local
+.env.development
+.env.production
+.env.*
+
+requirements1.txt
